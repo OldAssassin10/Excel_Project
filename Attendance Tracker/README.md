@@ -48,4 +48,4 @@ In order to fill these fields, here are the steps needed:
 2. Highlight and paste in the next corresponding table cells **horizontally**
 3. From the newly pasted cells, highlight and fill down to your desired length
 4. If done properly, the cells should have either `"-"` or left blank, corresponding with `"Y"` or `"N"`. If any thing other than this is present, refer back to step 1.
-5. For the part left blank after step 3, highlight the cell and you'll see this: `=IF(H9="Y", "-", "")`. In the empty double quotes, `""`, type `"SL"`, `"VA"` or `"PD"` to correspond with their reasons.
+5. For the part left blank after step 3, highlight the cell and you'll see this: `=IF(H9="Y", "-", "")` in this `fx` section. In the empty double quotes, `""`, type `"SL"`, `"VA"` or `"PD"` to correspond with their reasons.
